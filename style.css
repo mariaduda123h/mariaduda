@@ -1,0 +1,10 @@
+header{
+    background-color: rgb(92, 0, 92);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: baseline;
+}
+
+.cabecalho-imagem{
+    width: 8%;
+}
